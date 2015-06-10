@@ -1,0 +1,19 @@
+{
+  "name": "recreateGitHub",
+  "version": "0.0.0",
+  "authors": [
+    "David Ashenfelder <Dashenfelder@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "underscore": "~1.8.3",
+    "jquery": "~2.1.4"
+  }
+}
